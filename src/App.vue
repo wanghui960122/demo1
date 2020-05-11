@@ -4,6 +4,7 @@
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <h2>迈出历史性的一步</h2>
     <h2>修改的第一步</h2>
+    <h2>迈出历史性的第二步</h2>
   </div>
 </template>
 
