@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '../'
+  publicPath: 'http://106.54.36.42/demo1'
 }
