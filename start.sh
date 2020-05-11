@@ -1,3 +1,4 @@
+git reset --hard
 git pull
 
 yarn --registry=https://registry.npm.taobao.org/ && yarn build
