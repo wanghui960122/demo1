@@ -3,6 +3,7 @@
     <img src="http://m.imeitou.com/uploads/allimg/2020010412/q3spfwsnoyg.jpeg">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <h2>迈出历史性的一步</h2>
+    <h2>修改的第一步</h2>
   </div>
 </template>
 
